@@ -4,7 +4,7 @@ A tiny practice repository for learning the GitHub pull request workflow.
 
 ## What is this?
 
-This repsitory exists so you can practice opening your first pull reuqest
+This repository exists so you can practice opening your first pull request
 on GitHub — cloning a repo, making a small change, and proposing it back
 via a PR.
 
